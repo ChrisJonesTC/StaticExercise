@@ -1,0 +1,14 @@
+C:\Users\jusdaboiz\Desktop\Repos\StaticExercise\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.exe
+C:\Users\jusdaboiz\Desktop\Repos\StaticExercise\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.deps.json
+C:\Users\jusdaboiz\Desktop\Repos\StaticExercise\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.runtimeconfig.json
+C:\Users\jusdaboiz\Desktop\Repos\StaticExercise\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.runtimeconfig.dev.json
+C:\Users\jusdaboiz\Desktop\Repos\StaticExercise\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.dll
+C:\Users\jusdaboiz\Desktop\Repos\StaticExercise\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.pdb
+C:\Users\jusdaboiz\Desktop\Repos\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.csproj.AssemblyReference.cache
+C:\Users\jusdaboiz\Desktop\Repos\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jusdaboiz\Desktop\Repos\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.AssemblyInfoInputs.cache
+C:\Users\jusdaboiz\Desktop\Repos\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.AssemblyInfo.cs
+C:\Users\jusdaboiz\Desktop\Repos\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\jusdaboiz\Desktop\Repos\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.dll
+C:\Users\jusdaboiz\Desktop\Repos\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.pdb
+C:\Users\jusdaboiz\Desktop\Repos\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.genruntimeconfig.cache
